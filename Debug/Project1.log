@@ -1,0 +1,10 @@
+﻿  main.c
+d:\yigit\Project1\Project1\main.c(16,20): warning C4013: 'malloc' undefined; assuming extern returning int
+d:\yigit\Project1\Project1\main.c(23,13): warning C4013: 'getch' undefined; assuming extern returning int
+d:\yigit\Project1\Project1\main.c(35,8): warning C4013: 'putch' undefined; assuming extern returning int
+d:\yigit\Project1\Project1\main.c(16,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+d:\yigit\Project1\Project1\main.c(89,22): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+d:\yigit\Project1\Project1\main.c(91,17): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+d:\yigit\Project1\Project1\main.c(93,20): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+d:\yigit\Project1\Project1\main.c(87,34): warning C4101: 'basharf': unreferenced local variable
+  Project1.vcxproj -> d:\yigit\Project1\Debug\Project1.exe
